@@ -9,7 +9,7 @@ Ejemplo de Manipulacion de f-String
 """
 
 import random
-from replicant import clear
+# from replicant import clear
 import turtle
 
 # Day 2 - Important knowledge
